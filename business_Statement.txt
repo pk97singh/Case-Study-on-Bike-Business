@@ -17,7 +17,7 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 
-Business Goal:
+Business Goal is as below:
 
 You are required to model the demand for shared bikes with the available independent variables.
  It will be used by the management to understand how exactly the demands vary with different features. 
